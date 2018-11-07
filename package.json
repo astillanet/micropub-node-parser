@@ -1,0 +1,19 @@
+{
+  "name": "micropub-node-parser",
+  "version": "1.0.0",
+  "description": "Micropub parser",
+  "main": "micropub.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
